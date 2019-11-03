@@ -1,4 +1,4 @@
-# Understanding the workplace trend: Gig Economy
+# Understanding Workforce Trend: Gig Economy
 
 ## 1. Background
 ## 2. Data
