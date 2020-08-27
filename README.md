@@ -1,6 +1,6 @@
 # Understanding Workforce Trend: Gig Economy
 
-This repo is contains the data, analysis and reports for Dhruval Bhatt's term project for Computation and the Identification of Cultural Pattern course at the University of Chicago.
+This repo is contains the data, analysis and reports for Dhruval Bhatt's term project for Computation and the Identification of Cultural Pattern course at the University of Chicago. The course focused on computational strategies to effectively identify, understand, and (in the case of industry) capitalize on emerging cultural patterns in the digital world. In this project, the focus was to understand the conventional interpretation of the term gig economy. "Gigs", short-term independantly contracted jobs are not new but are rapid increase of such employment due to technology and culture shift have increased its prevalance. The study uses twitter data collected using #gigeconomy and Survey of Household Economics and Decisionmaking (SHED) for analysis.
 
 ## Class Information
 
