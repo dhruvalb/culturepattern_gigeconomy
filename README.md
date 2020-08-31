@@ -14,5 +14,5 @@ This repo is contains the data, analysis and reports for Dhruval Bhatt's term pr
   - **[Data](Data/):**
     - **[Twitter Data](Data/Twitter/)**
     - **[Survey of Household Economics and Decisionmaking](Data/SHED/)**
-  - **[Proposal](response_files):**
-  - **[Final Report](response_files):**
+  - **[Proposal](response_files)**
+  - **[Final Report](response_files)**
