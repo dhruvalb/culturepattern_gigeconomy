@@ -11,8 +11,8 @@ This repo is contains the data, analysis and reports for Dhruval Bhatt's term pr
 **Term:** Fall 2010
 
 ## Table of Contents
-  - **[Data](Data/):** **
-    - **[Twitter Data](Data/Twitter/)** **
-    - **[Survey of Household Economics and Decisionmaking](Data/SHED/)** **
-  - **[Proposal](response_files):** *Contains folders to all topics, including prompts*
-  - **[Final Report](response_files):** *Contains folders to all topics, including prompts*
+  - **[Data](Data/):**
+    - **[Twitter Data](Data/Twitter/)**
+    - **[Survey of Household Economics and Decisionmaking](Data/SHED/)**
+  - **[Proposal](response_files):**
+  - **[Final Report](response_files):**
