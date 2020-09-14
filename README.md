@@ -14,5 +14,5 @@ This repo is contains the data, analysis and reports for Dhruval Bhatt's term pr
   - **[Data](Data/):**
     - **[Twitter Data](Data/Twitter/)**
     - **[Survey of Household Economics and Decisionmaking](Data/SHED/)**
-  - **[Proposal](response_files)**
+  - **[Proposal](https://github.com/dhruvalb/culturepattern_gigeconomy/blob/master/Reports/Project%20Proposal.ipynb)**
   - **[Final Report](https://github.com/dhruvalb/culturepattern_gigeconomy/blob/master/Reports/Gig%20Economy%20-%20Final%20Report.ipynb)**
